@@ -23,11 +23,11 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok you are talking to lover's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "बेबी, कृपया वॅलेंटाइन विनंती स्वीकारा कर ना",
+      "बेबी कृपया वॅलेंटाइन विनंती स्वीकारा कर ना",
       "Estoy muerto",
       "No :(",
     ];
